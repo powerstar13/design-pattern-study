@@ -1,8 +1,8 @@
-package design.pattern.singleton;
+package design.pattern.study;
 
-import design.pattern.singleton.study.AClazz;
-import design.pattern.singleton.study.BClazz;
-import design.pattern.singleton.study.SocketClient;
+import design.pattern.study.singleton.AClazz;
+import design.pattern.study.singleton.BClazz;
+import design.pattern.study.singleton.SocketClient;
 
 public class SingletonMain {
 

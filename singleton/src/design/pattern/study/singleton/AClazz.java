@@ -1,4 +1,4 @@
-package design.pattern.singleton.study;
+package design.pattern.study.singleton;
 
 public class AClazz { // Class 키워드로 클래스명을 작성할 수 없으므로 Clazz로 만드는 것이 관례이다.
 
