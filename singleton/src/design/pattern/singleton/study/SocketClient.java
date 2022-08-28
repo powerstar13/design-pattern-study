@@ -1,4 +1,4 @@
-package design.pattern.singleton.client;
+package design.pattern.singleton.study;
 
 public class SocketClient {
 
